@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there,
+Hi friend,
 
-This is my website. As a brief introduction, my favorite color is dark green, I am often happy for no reason, and will get enthusiastic when I find a math problem I am unable to solve at a glance. I may also not be a great friend, but really enjoy chatting with others.
+Welcome to my website. As a brief introduction, my favorite color is dark green, I am often happy for no reason, and will easily get intrigued by a puzzle I am unable to solve fast. I may also not be a great friend, but really enjoy chatting with others.
