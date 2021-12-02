@@ -10,4 +10,4 @@ redirect_from:
 
 Hi friend,
 
-Welcome to my website. As a brief introduction, my favorite color is dark green, I am often happy for no reason, and will easily get intrigued by a puzzle I am unable to solve fast. I may also not be a great friend, but really enjoy chatting with others.
+Welcome to my website. This is Arsalan, a guy who likes dark green, often happy for no reason, and interested in problem solving. I may also not be a great friend, but really enjoy chatting with others.
