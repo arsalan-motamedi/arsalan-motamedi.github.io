@@ -12,3 +12,5 @@ Hi friend,
 
 Welcome to my website. This is Arsalan, a guy who likes dark green, often happy for no reason, and interested in problem solving. This is where I chose to share with you some scientific kind of stuff I find interesting.
 If you have any comment regarding about anything here, feel free to reach out!
+
+Here you can find my [CV](http://arsalan-motamedi.github.io/CV.pdf).
