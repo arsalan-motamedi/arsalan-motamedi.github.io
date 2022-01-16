@@ -11,4 +11,4 @@ redirect_from:
 Hi friend,
 
 Welcome to my website. This is Arsalan, a guy who likes dark green, often happy for no reason, and interested in problem solving. This is where I chose to share with you some scientific kind of stuff I find interesting.
-If you have any comment regarding about anythin here, feel free to reach out!
+If you have any comment regarding about anything here, feel free to reach out!
