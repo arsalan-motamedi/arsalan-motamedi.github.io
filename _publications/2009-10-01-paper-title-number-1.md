@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Gibbs Sampling of Periodic Potentials on a Quantum Computer"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+excerpt: 'We provide a rigorous analysis of Fourier interpolation method, and the quntum advantages that it may offer through quantum Foutier transform. We then use this approach to design a Gibbs sampler with provable polylog dependence on the error parameter.'
+date: 2023-11-03
+venue: 'preprint'
+paperurl: 'https://arxiv.org/abs/2210.08104'
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[View](https://arxiv.org/abs/2210.08104)
