@@ -12,6 +12,6 @@ Hi there,
 
 Welcome to my academic webpage. I am interested in Theoretical Compter Science and Quantum Computing. Here is a set of questions that I am currently thinking about:
 - Counting problems, especially approximate algorithms for #P-hard problems.
-- Classical estimation algorithms for $\text{QMA}$-hard, $\text{QMA}_{exp}$-hard , ... problems. (How well can we compute properties of the real 'quantum' world via our computers.)_
+- Classical estimation algorithms for $\text{QMA}$-hard problems. (How well can we compute properties of the real 'quantum' world via our computers.)_
 - 
 You can find my [CV](http://arsalan-motamedi.github.io/CV.pdf) here.
