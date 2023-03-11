@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi friend,
+Hi there,
 
-Welcome to my website. This is Arsalan, a guy who likes dark green, often happy for no reason, and interested in problem solving. This is where I chose to share with you some scientific kind of stuff I find interesting.
-If you have any comment on my files, thoughts, or anything related to here, feel free to reach out!
+Welcome to my academic webpage. I am interested in Theoretical Compter Science and Quantum Computing. Here is a set of questions that I am currently thinking about:
+- Counting problems, especially approximate algorithms for #P-hard problems.
+- Classical estimation algorithms for $QMA$-hard, $QMA_{EXP}$-hard , ... problems. (How well can we compute properties of the real 'quantum' world via our computers.)
 
-Here you can find my [CV](http://arsalan-motamedi.github.io/CV.pdf).
+You can find my [CV](http://arsalan-motamedi.github.io/CV.pdf) here.
