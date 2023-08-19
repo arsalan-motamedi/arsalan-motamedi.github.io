@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Gibbs Sampling of Periodic Potentials on a Quantum Computer"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'In this work, we develop a Gibbs sampler on a continuous domain using differential equation solvers.'
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://arxiv.org/abs/2210.08104'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Gibbs sampling from continuous real-valued functions is a challenging problem of interest in machine learning. Here we leverage quantum Fourier transforms to build a quantum algorithm for this task when the function is periodic. We use the quantum algorithms...
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download here](https://arxiv.org/pdf/2210.08104.pdf)
