@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Correlations Between Quantumness and Learning Performance in Reservoir Computing with a Single Oscillator"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+excerpt: 'We study the effect of quantum in reservoir computing.'
+date: 2023
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'AM, Hadi Zadeh-Haghighi, Christoph Simon (2023). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We explore the power of reservoir computing with a single oscillator in learning time series using quantum and classical models. We demonstrate...
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download from here](https://arxiv.org/abs/2304.03462)
